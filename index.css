@@ -60,11 +60,13 @@
     font-weight:200;
 
     color:rgba(255,255,255,0.9);
+     overflow: hidden;
 
     margin-top:20px;
 }
 .button{
     display:inline-block;
+     overflow: hidden;
     padding:16px 40px;
     border:2px solid #fff;
     color:#fff;
